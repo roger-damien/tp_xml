@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<location>
+    <departement>Gadeloupe
+        <ville>Pointe Noire
+            <titre>Bas de villa Calme et tranquille
+                <logement type="maison" nbr-personnes="4" nbr-chambres="2"  nbr-lits="2"  intermediaire="particulier" annulation="gratuit jusqu'à 14 jours" prix ="60 €" url="https://www.abritel.fr/location-vacances/p959374?noDates=true&uni_id=1120730" notation="4.0" appreciations="5">
+                    <situation description="3mn en voiture de la plage" longitude="16.240695" lattitude="-61.783985" />
+                    <photos>
+                        <photo url ="loc1/1.jpg"/>
+                        <photo url ="loc1/2.jpg"/>
+                        <photo url ="loc1/2.jpg"/>
+                    </photos>
+                </logement>
+            </titre>
+            <titre>Basse terre: jolie maison créole. belle vue mer et grande piscine
+                <logement type="maison" nbr-personnes="3" nbr-chambres="1"  nbr-lits="5"  intermediaire="particulier" annulation="gratuit jusqu'à 14 jours" prix ="58 €" url="https://www.abritel.fr/location-vacances/p959374?noDates=true&uni_id=1120730" notation="4.7" appreciations="64">
+                    <situation description="2mn en voiture de la plage" longitude="16.219485" lattitude="-61.778476" />
+                    <photos>
+                        <photo url ="loc2/1.jpg"/>
+                        <photo url ="loc2/2.jpg"/>
+                        <photo url ="loc2/2.jpg"/>
+                    </photos>
+                </logement>
+            </titre>
+        </ville>
+    </departement>
+</location>

@@ -1,0 +1,32 @@
+BODY {
+background-color:#FFFFE1;
+scrollbar-face-color:#990000;
+scrollbar-highlight-color:#FFFFFF;
+scrollbar-3dlight-color:#000080;
+scrollbar-darkshadow-color:#FFFFFF;
+scrollbar-shadow-color:#FFFFFF;
+scrollbar-arrow-color:#FFFFE1;
+scrollbar-track-color:#FFFFE1;
+font-family : verdana; font-size : 10pt; color : #000080
+}
+
+
+
+a {font-family: Verdana; font-size: 10pt; color: #FFFFCC; text-decoration : none }
+a:hover {color:#F7A05C}
+a.special:hover {color: #990000}
+a.special {font-family: Verdana; font-size: 10pt; font-weight: bold; font-style: italic; color: #F7A05C; text-decoration : none}
+a.special2 {font-family: Verdana; font-size: 8pt;  color: #F7A05C; text-decoration : none}
+a.special2:hover {color: #990000}
+img          {
+border-style: none  }
+
+
+
+table        { font-family: Verdana; font-size: 10pt;
+			border-width : 0;
+			bgcolor : #F5F39E;  cellspacing: 0
+}
+p {font-family: Verdana; font-size: 10pt; color: #990000 }
+
+

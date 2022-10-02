@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Poemes>
+    <Poeme>
+        <Auteur>Louis Armstrong</Auteur>
+        <Titre>WHAT A WONDERFUL WORLD</Titre>
+        <DateParution mois ="" annee =""></DateParution>
+        <Strophes>
+            <Strophe>
+                <Vers>I see trees of green, red roses too</Vers>
+                <Vers>I see them bloom for me and you</Vers>
+                <Vers>And I think to myself, what a wonderful world</Vers>
+            </Strophe>
+            <Strophe>
+                <Vers>I see skies of blue and clouds of white</Vers>
+                <Vers>The bright blessed day, the dark sacred night</Vers>
+                <Vers>And I think to myself, what a wonderful world</Vers>
+            </Strophe>
+            <Strophe>
+                <Vers>The colours of the rainbow, so pretty in the sky</Vers>
+                <Vers>Are also on the faces of people going by</Vers>
+                <Vers>I see friends shakin' hands, sayin' "How do you do?"</Vers>
+                <Vers>They're really saying "I love you"</Vers>
+            </Strophe>
+            <Strophe>
+                <Vers>I hear babies cryin', I watch them grow</Vers>
+                <Vers>They'll learn much more than I'll ever know</Vers>
+                <Vers>And I think to myself, what a wonderful world</Vers>
+                <Vers>Yes, I think to myself, what a wonderful world</Vers>
+            </Strophe>
+            <Strophe>
+                <Vers>Oh yeah</Vers>
+            </Strophe>
+        </Strophes>
+    </Poeme>
+    <Poeme>
+        <Auteur>John Lennon</Auteur>
+        <Titre>Imagine</Titre>
+        <DateParution mois ="" annee ="1970"></DateParution>
+        <Strophes>
+            <Strophe>
+                <Vers>Imagine there's no heaven</Vers>
+                <Vers>It's easy if you try</Vers>
+                <Vers>No hell below us</Vers>
+                <Vers>Above us only sky</Vers>
+                <Vers>Above us only sky</Vers>
+                <Vers>Living for today...</Vers>
+            </Strophe>
+            <Strophe>
+                <Vers>Imagine there's no countries</Vers>
+                <Vers>It isn't hard to do</Vers>
+                <Vers>Nothing to kill or die for</Vers>
+                <Vers>And no religion too</Vers>
+                <Vers>Imagine all the people</Vers>
+                <Vers>Living life in peace...</Vers>
+            </Strophe>
+            <Strophe>
+                <Vers>You may say I'm a dreamer</Vers>
+                <Vers>But I'm not the only one</Vers>
+                <Vers>I hope someday you'll join us</Vers>
+                <Vers>And the world will be as one</Vers>
+            </Strophe>
+            <Strophe>
+                <Vers>Imagine no possession</Vers>
+                <Vers>I wonder if you can</Vers>
+                <Vers>No need for greed or hunger</Vers>
+                <Vers>A brotherhood of man</Vers>
+                <Vers>Imagine all the people</Vers>
+                <Vers>Sharing all the world..</Vers>
+            </Strophe>
+            <Strophe>
+                <Vers>You may say I'm a dreamer</Vers>
+                <Vers>But I'm not the only one</Vers>
+                <Vers>I hope someday you'll join us</Vers>
+                <Vers>And the world will live as one</Vers>
+            </Strophe>
+        </Strophes>
+    </Poeme>
+    <Poeme>
+        <Auteur>Arthur Rimbaud</Auteur>
+        <Titre>Le dormeur du val</Titre>
+        <DateParution mois ="octobre" annee ="1870"></DateParution>
+        <Strophes>
+            <Strophe>
+                <Vers>C'est un trou de verdure où chante une rivière,</Vers>
+                <Vers>Accrochant follement aux herbes des haillons</Vers>
+                <Vers>D'argent ; où le soleil, de la montagne fière,</Vers>
+                <Vers>Luit : c'est un petit val qui mousse de rayons.</Vers>
+            </Strophe>
+            <Strophe>
+                <Vers>Un soldat jeune, bouche ouverte, tête nue,</Vers>
+                <Vers>Et la nuque baignant dans le frais cresson bleu,</Vers>
+                <Vers>Dort ; il est étendu dans l'herbe, sous la nue,</Vers>
+                <Vers>Pâle dans son lit vert où la lumière pleut.</Vers>
+            </Strophe>
+            <Strophe>
+                <Vers>Les pieds dans les glaïeuls, il dort. Souriant comme</Vers>
+                <Vers>Sourirait un enfant malade, il fait un somme :</Vers>
+                <Vers>Nature, berce-le chaudement : il a froid.</Vers>
+            </Strophe>
+            <Strophe>
+                <Vers>Les parfums ne font pas frissonner sa narine ;</Vers>
+                <Vers>Il dort dans le soleil, la main sur sa poitrine,</Vers>
+                <Vers>Tranquille. Il a deux trous rouges au côté droit.</Vers>
+            </Strophe>
+        </Strophes>
+    </Poeme>
+</Poemes>

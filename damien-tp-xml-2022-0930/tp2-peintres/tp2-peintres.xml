@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section>
+    <peintres balisehtml ="h1">Les Peintres"
+        <article>
+            <nom balisehtml ="h1">Paul CEZANNE </nom>
+            <famille balisehtml ="h2">Impressionniste </famille>
+            <naissance balisehtml = "p" date ="19 janvier 1839" lieu ="Aix-en-Provence" ></naissance>
+            <deces balisehtml ="p" date = "22 octobre 1906" lieu ="Aix-en-Provence" ></deces>
+            <biographies balisehtml ="h2"> BIOGRAPHIE
+                <sstitrebiographie balisehtml ="h3"> PAUL CEZANNE ET SON PERE
+                    <texte balisehtml ="p" >
+                    Le milieu d'origine de Cézanne est celui de la bonne bourgeoisie provinciale . Son père, propriétaire à Aix-en-Provence d'une prospère fabrique de chapeaux, vivait cependant quelque peu en marge de la société aixoise: il n'était pas marié avec la mère de son fils, une de ses anciennes ouvrières, lorsque ce dernier naquit, en 1839, et ne légalisa sa situation que cinq ans plus tard, avant de s'établir comme banquier.
+                </texte>
+                    <texte balisehtml ="p" >
+                Cezanne fit toutes ses études à Aix, acquérant une solide culture classique et se liant d'une profonde amitié avec quelques-uns de ses camarades de collège, au premier rang desquels Émile Zola, alors son confident le plus intime.
+                </texte>
+                    <texte balisehtml ="p" >
+                Son père le destinait au droit, et il s'inscrivit à la faculté d'Aix en 1858. Sa vocation artistique était pourtant déjà suffisamment affirmée (il avait suivi les cours de l'école gratuite de dessin depuis 1857) pour qu'il songe à aller étudier la peinture à Paris.
+                </texte>
+                    <texte balisehtml ="p" >
+                Il finit par obtenir de son père - qui subvient à ses besoins - l'indispensable autorisation pour un premier séjour parisien au printemps et à l'été de 1861, lors duquel il fréquente l'Académie Suisse, où il rencontre Pissarro et Guillaumin, mais échoue au concours d'entrée à l'Ecole des Beaux-Arts.
+                </texte>
+                    <texte balisehtml ="p" >
+                Il revient à Aix travailler dans la banque paternelle, mais repart un an plus tard pour Paris où il se réinscrit à l'Académie Suisse. C'en est désormais fini des faux départs, des hésitations sinon du découragement devant les difficultés du métier : Cézanne, définitivement, a décidé d'être peintre.
+                </texte>
+                </sstitrebiographie>
+            </biographies>
+            <portrait balisehtml ="h2" titre ="Portrait de Paul Cézanne" date="1880" sstitre="Pastel sur papier par RENOIR" url="img/cezanne/cezanne.jpg"/>
+            <oeuvres balisehtml ="h2"> SES OEUVRES
+                <sstitreoeuvres balisehtml ="h3"> PAUL CEZANNE, PEINTRE ARTISAN
+                    <texte balisehtml ="p">
+                Les années suivantes, où il alterne les séjours parisiens, les retours à Aix et les voyages en Provence, le voient suivre le chemin d'un étudiant indépendant, mais aussi respectueux de l'apprentissage traditionnel. Il travaille sur le modèle à l'Académie Suisse, fréquente le Louvre où il remplit de nombreux carnets de croquis d'après les maîtres et copie plusieurs tableaux.
+                </texte>
+                    <texte balisehtml ="p">
+                Il continue à fréquenter Zola, qui le soutient dans ses efforts, intellectuellement, moralement et même financièrement, et fait aussi la connaissance de Bazille, Renoir, Monet, Sisley. Par l'intermédiaire de Zola devenu l'ami de Manet, il rencontrera celui-ci en 1866.
+                </texte>
+                    <texte balisehtml ="p">
+                Ses toutes premières oeuvres de Cézanne n'ont pas grand chose à voir avec celles de ses amis impressionnistes, dont il ne partage alors que l'ambition, le désir de nouveauté, et la révolte contre les normes académiques.
+                </texte>
+                    <texte balisehtml ="p">
+                 Il est d'abord séduit par le romantisme de Delacroix, et fait entrer dans ses sujets et ses compositions les obsessions qui l'habitent. La violence dramatique de ses sujets est rendue par des couleurs sombres, comme dans "L'enlèvement" - 1867.
+                </texte>
+                    <texte balisehtml ="p">
+                Il peint aussi de nombreux paysages et portraits dans un style réaliste inspiré de Courbet.
+                </texte>
+                    <texte balisehtml ="p">
+                Cézanne étant un peintre autodidacte (il ne fera pas l'Ecole des Beaux-Arts et l'Académie Suisse ne dispensait pas de cours), sa peinture est alors moins homogène que celle de ses collègues impressionnistes, voire parfois maladroite.
+                </texte>
+                </sstitreoeuvres>
+                <sstitreoeuvres balisehtml ="h3"> PAUL CEZANNE, LE REFUSE
+                    <texte balisehtml ="p">
+                Cézanne, à partir de 1863, propose régulièrement des peintures au jury du Salon Officiel de Paris : elles y seront toujours refusées (à une exception près, un portrait, en 1882), malgré ses efforts et les appuis dont il pouvait disposer.
+                </texte>
+                    <texte balisehtml ="p">
+                Ses tableaux dénotent déjà une grande diversité thématique : portraits, scènes historiques ou religieuses, natures mortes, paysages de Provence...
+                </texte>
+                    <texte balisehtml ="p">
+                Grâce à la pension paternelle, le jeune peintre n'a pas les mêmes problèmes d'argent que certains de ses amis (Monet, Renoir, Guillaumin).
+                </texte>
+                    <texte balisehtml ="p">
+               En 1869, Cézanne rencontre Hortense Fiquet, un modèle qui va devenir sa compagne, mais craignant que son père, un être particulièrement borné et sévère, ne désapprouve cette liaison et remette en cause sa pension, Cézanne la lui cache donc, de même que plus tard la naissance d'un fils, Paul, en 1872, dont l'existence ne sera découverte par son père, fortuitement, qu'en 1878.
+                </texte>
+                    <texte balisehtml ="p">
+               Cette situation bancale durera en fait jusqu'au mariage, en présence des parents, en 1886.
+                </texte>
+                </sstitreoeuvres>
+            </oeuvres>
+            <imgoeuvres balisehtml ="h2"> Ses oeuvres en image
+                <imgoeuvre balisehtml ="h3" titre="L'enlèvement" date="1867" exposition="Fitzwilliam Museum Cambridge, Angleterre" url="img/cezanne/cezanne_enlevement.jpg"/>
+                <imgoeuvre balisehtml ="h3" titre="Madame Cézanne" date="1877" exposition="Museum of Fine Arts, Boston" url="img/cezanne/cezanne043.jpg"/>
+            </imgoeuvres>
+        </article>
+        <article>
+            <nom balisehtml ="h1">Edgar DEGAS </nom>
+            <famille balisehtml ="h2">Impressionniste </famille>
+            <naissance balisehtml = "p" date ="19 juillet 1834" lieu ="Paris" ></naissance>
+            <deces balisehtml ="p" date = "27 septembre 1917" lieu ="Paris" ></deces>
+            <biographies balisehtml ="h2"> BIOGRAPHIE
+                <sstitrebiographie balisehtml ="h3"> UNE FORMATION CLASSIQUE
+                    <texte balisehtml ="p" >
+                    Edgar DEGAS (1834-1917), peintre et sculpteur français, est considéré comme l'un des représentants majeurs de l'impressionnisme grâce à sa composition novatrice et à son analyse perspective du mouvement.
+                </texte>
+                    <texte balisehtml ="p" >
+                Il fut aussi l'un des plus actifs organisateurs du mouvement impressionniste, même si ses conceptions artistiques étaient distinctes de celles de ses amis impressionnistes.
+                </texte>
+                    <texte balisehtml ="p" >
+                De son vrai nom Hilaire Germain Edgar de Gas, il naît à  Paris en juillet 1834 dans une grande famille noble de banquiers, aisée et cultivée. Sa mère était créole, originaire de la Nouvelle-Orléans. Son père, amateur d'art éclairé, permet à son fils d'aménager un atelier dans sa propre maison.
+                </texte>
+                    <texte balisehtml ="p" >
+                Après de brèves études de droit, il étudie à l'Ecole des Beaux-Arts sous la direction de Lamothe, un disciple d'Ingres, peintre auquel il devait toujours vouer une admiration sans borne. Il y acquiert une grande maîtrise du dessin qui constituera toujours une caractéristique majeure de son art.
+                </texte>
+                    <texte balisehtml ="p" >
+                En 1859, il part pour l'Italie où il étudie, à Florence, Naples et Rome, les œuvres du Quattrocento, et peint de nombreux portraits.
+                </texte>
+                    <texte balisehtml ="p" >
+                Il étudiera à fond l'art ancien, tout en programmant dès 1859 dans ses carnets, toute une liste de motifs de la vie contemporaine qu'il projette de traiter : musiciens, danseuses, deuils, cafés le soir... autant de thèmes qu'on retrouvera dans son oeuvre.
+                </texte>
+                    <texte balisehtml ="p" >
+                Par son statut social, sa culture et sa conception artistique, Degas a beaucoup de points communs avec Manet. Plus encore que Manet, c'est un peintre de figures, il ne s'intéresse jamais au paysage.
+                </texte>
+                </sstitrebiographie>
+            </biographies>
+            <portrait balisehtml ="h2" titre ="Autoportrait au chapeau mou" date="1857-58" sstitre="Sterling and Francine Clark Art Institute Williamstown, Massachusett" url="img/degas/degas.jpg"/>
+            <oeuvres balisehtml ="h2"> SES OEUVRES
+                <sstitreoeuvres balisehtml ="h3"> UNE COMPOSITION NOVATRICE
+                    <texte balisehtml ="p">
+                "La Famille Bellelli" (1858-1860) est l'un de ses premiers tableaux véritablement personnels, et peut être considéré comme l'un des premiers chefs-d'oeuvre de l'Impressionnisme.
+                </texte>
+                    <texte balisehtml ="p">
+                Ce tableau représente le baron Bellelli, révolutionnaire exilé à Naples en 1848, et sa femme Laura, fille du banquier napolitain de Gas qui vient de décéder, et tante du peintre, avec leurs deux filles, en habits de deuil.
+                </texte>
+                    <texte balisehtml ="p">
+                Comme il le fera tout au long de sa vie, Degas choisit une composition inédite, et apparaît déjà comme un maître portraitiste dont l'intérêt principal est de traduire les états psychiques des personnages.
+                </texte>
+                    <texte balisehtml ="p">
+                 Par sa composition - des personnages aux poses peu contraintes, le père vu de dos comme coinçé entre des meubles et relégué à une incompréhensible insignifiance -, il transforme une scène de deuil en une banale scène du quotidien.
+                </texte>
+                    <texte balisehtml ="p">
+                Malgré les attitudes pouvant être interprétées comme des signes de cohésion familiale, les regards divergent et sont emplis de froideur. Cette objectivité et cette fugacité des relations humaines sont un leitmotiv dans l'oeuvre de Degas.
+                </texte>
+                    <texte balisehtml ="p">
+                Comme Manet avec son "Olympia", Degas conservera ce tableau sur lequel il travailla longtemps, jusqu'à sa mort.
+                </texte>
+                </sstitreoeuvres>
+                <sstitreoeuvres balisehtml ="h3"> DES THEMES CONTEMPORAINS ET URBAINS
+                    <texte balisehtml ="p">
+                A partir de 1861, il devait commencer à abandonner les sujets historiques et s'intéresser au thème des courses de chevaux, coutume aristocratique importé d'Angleterre, que Géricault (1791-1824) avait traité avant lui. A Longchamp, qui venait d'ouvrir, Degas étudiera attentivement l'animation des champs de course - l'univers des jockeys, les préparatifs et le départ des courses... -.
+                </texte>
+                    <texte balisehtml ="p">
+                Il se lie dès 1862 avec Manet ("Portrait de Manet", 1864), mais ne rencontrera Monet et Renoir qu'en 1865 au Café Guerbois. De 1865 à 1870, il enverra chaque année ses oeuvres au Salon, avec succès. Après 1870, il cessera définitivement ses envois.
+                </texte>
+                    <texte balisehtml ="p">
+                Contrairement aux autres impressionnistes, Degas préfèrera toujours travailler à l'atelier et ne partagera ni leur goût de la campagne et du plein air, ni leur recherche sur la lumière naturelle qui était au coeur de leurs préoccupations. Bien au contraire, il se penchera sur les effets de la lumière artificielle (lampes à gaz).
+                </texte>
+                    <texte balisehtml ="p">
+               Sa mémoire visuelle lui permet de retranscrire précisément en atelier les sujets qu'il a observés, qu'il recrée dans une composition picturale voulue par lui. Degas revendiquait le droit de l'artiste à traduire ainsi sa volonté artistique, s'opposant en celà aux autres impressionnistes qui privilégiaient la spontanéité de la peinture sur le motif.
+                </texte>
+                    <texte balisehtml ="p">
+               Degas dira ainsi de son art : “ Aucun art n'est aussi peu spontané que le mien. Ce que je fais est le résultat de la réflexion et de l'étude des grands maîtres; de l'inspiration, la spontanéité, le tempérament, je ne sais rien...”, ou encore : "je ne veux pas perdre la tête face à la nature".
+                </texte>
+                </sstitreoeuvres>
+            </oeuvres>
+            <imgoeuvres balisehtml ="h2"> Ses oeuvres en image
+                <imgoeuvre balisehtml ="h3" titre="La famille Bellelli" date="1858-60" exposition="Musée d'Orsay, Paris" url="img/degas/degas_famille_bellelli.jpg"/>
+                <imgoeuvre balisehtml ="h3" titre="L'orchestre de l'Opéra" date="vers 1868-69" exposition="Musée d'Orsay, Paris" url="img/degas/orchestre_opera.jpg"/>
+            </imgoeuvres>
+        </article>
+        <article>
+            <nom balisehtml ="h1">Paul GAUGUIN</nom>
+            <famille balisehtml ="h2">Postimpressionniste</famille>
+            <naissance balisehtml = "p" date ="7 juin 1848" lieu ="Paris" ></naissance>
+            <deces balisehtml ="p" date = "8 mai 1903" lieu ="Atuona, Hiva Oa, Polynésie française" ></deces>
+            <biographies balisehtml ="h2"> BIOGRAPHIE
+                <sstitrebiographie balisehtml ="h3">Aventurier et voyageur
+                    <texte balisehtml ="p" >
+                    Paul GAUGUIN est né à Paris en 1848 dans une famille française de la moyenne bourgeoisie. Il était d'ascendance  hispano-péruvienne noble par sa mère, et sa famille, étiquetée "rouge" - son père travaillant au "National", l'organe du Parti Radical -, gagne le Pérou en 1849 pour échapper à la répression du "Parti de l'ordre".
+                </texte>
+                    <texte balisehtml ="p" >
+                Son père décède lors du voyage, et Paul reviendra à Paris six ans plus tard avec sa mère et sa soeur. De cette petite enfance en exil en Amérique Latine, il gardera toujours le goût du voyage et de l'exotisme.
+                </texte>
+                    <texte balisehtml ="p" >
+                A 17 ans, il s'engage dans la marine marchande. De ce quai du Havre ou s'était embarqué Edouard Manet en 1848, comme matelot, Paul Gauguin voit à son tour s'éloigner les côtes de France. La destination est la même : Rio de Janeiro. En retrouvant le continent de son enfance, le jeune matelot est heureux. Par le détroit de Magellan, à Port -Famine, Paul se rend sur la tombe de son père, puis se dirige vers Panama , les iles polynésiennes, les Indes. Là, en 1867, il apprend que sa mère s'est éteinte.
+                </texte>
+                    <texte balisehtml ="p" >
+                Après la guerre franco-prusienne de 1870-71, Paul Gauguin reprend la vie à zéro. Il va trouver une situation chez l'agent de change Bertin, confrère de Gustave Arosa, un ami de sa famille devenu son tuteur à la mort de sa mère en 1867. Il gardera cet emploi, qui lui offre une vie aisée, jusqu'au krach de 1882.
+                </texte>
+                    <texte balisehtml ="p" >
+                C'est également auprès de Gustave Arosa qu'il va s'initier à la peinture. Celui-ci possédait une importante collection d'art, incluant des oeuvres de Delacroix. Sous son influence, Paul Gauguin allait devenir lui-même peintre amateur, puis collectionneur, achetant des oeuvres impressionnistes.
+                </texte>
+                    <texte balisehtml ="p" >
+                Il rencontre une jeune danoise , Mette-Sophie Gad, qu'il épouse en 1873. Elle lui donnera 5 enfants.
+                </texte>
+                </sstitrebiographie>
+            </biographies>
+            <portrait balisehtml ="h2" titre ="Autoportrait au Christ Jaune" date="1889" sstitre="Collection particulière" url="img/gaugin/gauguin.jpg"/>
+            <oeuvres balisehtml ="h2"> SES OEUVRES
+                <sstitreoeuvres balisehtml ="h3">LE PEINTRE DU DIMANCHE, ELEVE DE PISSARRO
+                    <texte balisehtml ="p">
+                Avec son ami Emile Schuffenecker, un collègue de bureau, peintre amateur, il va peindre en banlieue. A ses débuts Paul Gauguin peint dans le style de Corot, et sera même admis au Salon de 1876.
+                </texte>
+                    <texte balisehtml ="p">
+                En 1874, chez les Arrosa, il rencontre Pissarro , qui va l'initier au paysage impressionniste et lui communiquer le sens de la composition picturale.
+                </texte>
+                </sstitreoeuvres>
+                <sstitreoeuvres balisehtml ="h3">DANS LE SILLAGE DES IMPRESSIONNISTES
+                    <texte balisehtml ="p">
+                Durant les années 1874-1886, Paul Gauguin allait se mouvoir dans le sillage du mouvement impressionniste.
+                </texte>
+                    <texte balisehtml ="p">
+                En tant que collectionneur, il se montra audacieux achetant très tôt des oeuvres de Pissarro, Manet, Monet, Renoir, Sisley, Guillaumin, Cassatt, Degas et Cézanne. Il gagnera particulièrement l'amitié de Pissarro et de Degas, ce dernier restant, en dépit d'une brouille passagère, l'un de ses plus ardents défenseurs, lui achetant à plusieurs reprises des toiles.
+                </texte>
+                    <texte balisehtml ="p">
+                En tant que peintre, sa peinture restera très proche de celle de son mentor, Pissarro, jusque vers 1883. Il devra à l'impressionnisme son sens de la lumière de plein air, la luminosité de ses couleurs, et son indépendance à l'égard des conventions.
+                </texte>
+                    <texte balisehtml ="p">
+               Paul Gauguin participera de 1879 à 1886 aux cinq dernières expositions du groupe des impressionnistes.
+                </texte>
+                    <texte balisehtml ="p">
+               Au cours de ses hésitations, on trouve la remarquable "Etude de nu ou Suzanne cousant" , qui fut très remarquée lors de l'Exposition de 1881.
+                </texte>
+                    <texte balisehtml ="p">
+                La disposition et le caractère de nature morte rappelle Manet, l'étude de nu et les gestes quotidiens de la couture trahissent la vision réaliste de Degas, tandis que la richesse des nuances de lumière et des ombres bleues et vertes sur la peau nue rapprochent cette oeuvre de Renoir.
+                </texte>
+                    <texte balisehtml ="p">
+                Même après sa rupture de l'été 1888 avec l'impressionnisme, il est des admirations que Gauguin ne reniera jamais : Pissarro, Degas et Cézanne.
+                </texte>
+                </sstitreoeuvres>
+            </oeuvres>
+            <imgoeuvres balisehtml ="h2"> Ses oeuvres en image
+                <imgoeuvre balisehtml ="h3" titre="La Seine au Pont d'Iéna, temps neigeux" date="1875" exposition="Musée d'Orsay, Paris" url="img/gaugin/gauguin02.jpg"/>
+                <imgoeuvre balisehtml ="h3" titre="Etude de nu ou Suzanne cousant" date="1881" exposition="Ny Carlsberg-Glyptotek Copenhague, Danemark" url="img/gaugin/gauguin05.jpg"/>
+            </imgoeuvres>
+        </article>
+    </peintres>
+</section>
